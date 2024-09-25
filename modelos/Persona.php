@@ -10,10 +10,6 @@ class Persona{
         $this->edad = $edad;
     }
 
-    public function getNom(): string{
-        return $this->nombre;
-    }
-
     public function getNombre(): string{
         return $this->nombre;
     }
